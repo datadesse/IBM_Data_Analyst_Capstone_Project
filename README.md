@@ -1,4 +1,4 @@
-# IBM_Data_Analyst_Capstone_Project_Week_2_Data_Wrangling
+# Data_Wrangling_Week_2
 
 Hands-on-Lab-6-to-10 
 
