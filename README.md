@@ -2,6 +2,7 @@
 ### collecting Data using API 
 ### Data Exploration 
 ### Data Wrangling
+### Exploratory Data Analysis
 
 Data Wrangling: 
 Finding/removing Duplicates
