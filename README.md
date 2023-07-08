@@ -3,6 +3,7 @@
 ### Data Exploration 
 ### Data Wrangling
 ### Exploratory Data Analysis
+### Data Visualization
 
 About the date:
 The actual data set used for Data Wrangling has around 90,000 responses but only around 1/10th of the original data set (randomised) is used for this exercise. Therefore, any conclusions drawn here may not reflect the real world scenario.
