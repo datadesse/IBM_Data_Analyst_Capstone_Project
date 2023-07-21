@@ -4,6 +4,8 @@
 ### Data Wrangling
 ### Exploratory Data Analysis
 ### Data Visualization
+### Building_dashboard_Charts_with_Python Alternative to Cognos dashboard
+### Peer-Graded Assignment_ Building a dashboard with Cognos screenshot 
 
 About the date:
 The actual data set used for Data Wrangling has around 90,000 responses but only around 1/10th of the original data set (randomised) is used for this exercise. Therefore, any conclusions drawn here may not reflect the real world scenario.
