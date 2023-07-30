@@ -14,7 +14,6 @@ https://public.tableau.com/app/profile/d.tadesse
 https://public.tableau.com/views/Demographics_Dashboard/Demographics_New?:language=en-US&:display_count=n&:origin=viz_share_link
 https://public.tableau.com/views/CurrentTechnologyUsage_16904753897180/CurrentTechnologyUsage?:language=en-US&:display_count=n&:origin=viz_share_link
 https://public.tableau.com/views/FutureTechnologyTrend_16904774657710/FutureTechnologyTrend?:language=en-US&:display_count=n&:origin=viz_share_link
-![image](https://github.com/datadesse/IBM_Data_Analyst_Capstone_Project/assets/47495467/9ada50f9-116d-4a7b-a1da-98ef549d786a)
 
 
 About the date:
